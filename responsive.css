@@ -1,0 +1,1474 @@
+@media only screen and (max-width:1024px) {
+    .first-navbar-container {
+        width: 100%;
+    }
+
+    .first-navbar-container nav {
+        width: 100%;
+
+    }
+
+    .second-navbar-container {
+        width: 100%;
+        height: auto;
+    }
+
+    .second-navbar-container nav {
+        width: 98%;
+        height: auto;
+    }
+
+    .logo-container {
+        width: 200px;
+    }
+
+    .logo-container img {
+        height: 35px;
+    }
+
+    .second-navbar-container nav ul {
+        width: auto;
+    }
+
+    .button-container {
+        width: 100px;
+    }
+
+    .button-container button {
+        display: none;
+    }
+
+    .first-main-section-container {
+        height: 100vh;
+    }
+
+    .floating-div {
+        top: 300px;
+    }
+
+    .first-card-container {
+        width: 80%;
+    }
+
+    .third-main-section-container {
+        width: 100%;
+        height: 100%;
+    }
+
+    .third-section-data-container {
+        width: 90%;
+        height: 100%;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .left-section {
+        width: 80%;
+        height: 100%;
+    }
+
+    .left-section img {
+        object-fit: cover;
+    }
+
+    .right-section {
+        width: 100%;
+        height: auto;
+        padding: 0;
+    }
+
+    .right-section h1 {
+        font-size: 20px;
+    }
+
+    .right-section h2 {
+        width: 100%;
+        font-size: 40px;
+    }
+
+    .right-section p {
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .signature-con img {
+        height: 70px;
+    }
+
+    .name-section h4 {
+        font-size: 30px;
+    }
+
+    .business-section {
+        animation-name: none;
+        padding: 0 0 0 30px;
+        width: 500px;
+        top: 350px;
+        left: 450px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 30px;
+    }
+
+    .contact-section {
+        width: 500px;
+        padding: 0 0 0 30px;
+        animation-name: none;
+        top: 500px;
+        left: 450px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 30px;
+    }
+
+    .fourth-main-section-container {
+        height: 170vh;
+    }
+
+    .fourth-section-data-container {
+        width: 97%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 170px;
+    }
+
+    .left-box {
+        width: 100%;
+        height: auto;
+    }
+
+
+    .first-text-section h2 {
+        width: 100%;
+    }
+
+    .right-box {
+        width: 100%;
+    }
+
+    .first-image-section {
+        height: 750px;
+        width: 45%;
+        margin: 0;
+    }
+
+    .first-image-section img {
+        object-fit: cover;
+    }
+
+    .second-image-section {
+        height: 750px;
+    }
+
+    .fifth-main-section-container {
+        background-color: red;
+        height: 50vh;
+    }
+
+    .gradient-three {
+        height: 50vh;
+    }
+
+    .fifth-section-data-container {
+        /* background-color: blue; */
+        height: 100%;
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+
+    .fifth-section-data-container h1 {
+        font-size: 15px;
+
+    }
+
+    .fifth-section-data-container h2 {
+        font-size: 37px;
+        width: 100%;
+    }
+
+    .fifth-section-data-container p {
+        width: 100%;
+    }
+
+    .third-card-container {
+        height: 50%;
+        margin-top: 0px;
+        flex-wrap: wrap;
+        /* gap: 0; */
+    }
+
+    .fourth-card {
+        width: 470px;
+        border-radius: 0px;
+        border-top-left-radius: 25px;
+    }
+
+    .fourth-card p {
+        width: 43%;
+    }
+
+    .gradient-two {
+        width: 470px;
+        border-radius: 0px;
+        border-top-left-radius: 25px;
+    }
+
+    .fourth-card2 {
+        width: 470px;
+        border-top-right-radius: 25px;
+    }
+
+    .house {
+        width: 470px;
+    }
+
+    .fourth-card2 p {
+        width: 43%;
+    }
+
+    .fourth-card3 {
+        width: 470px;
+        border-bottom-left-radius: 25px;
+    }
+
+    .fourth-card3 p {
+        width: 43%;
+    }
+
+    .fourth-card4 {
+        width: 470px;
+        border-radius: 0px;
+        border-bottom-right-radius: 25px;
+    }
+
+    .sixth-main-section-container {
+        height: 170vh;
+        margin-top: 200px;
+    }
+
+    .sixth-section-data-container {
+        flex-direction: column;
+        height: 170vh;
+        width: 95%;
+    }
+
+    .left-con {
+        width: 100%;
+        height: 130vh;
+    }
+
+    .right-con {
+        width: 100%;
+        height: 90vh;
+        padding: 0;
+
+    }
+
+    .img1 {
+        width: 550px;
+        height: 700px;
+    }
+
+    .img2 {
+        width: 400px;
+    }
+
+    .img3 {
+        width: 550px;
+        height: 700px;
+    }
+
+    .seventh-main-section-container {
+        height: 140vh;
+
+    }
+
+    .fourth-card-container {
+        height: auto;
+    }
+
+    .fifth-card:nth-child(2) {
+        border-top-right-radius: 25px;
+    }
+
+    .fifth-card:nth-child(3) {
+        width: 98.7%;
+    }
+
+    .fifth-card:nth-child(3) img {
+        border-radius: 0px;
+    }
+
+    .fifth-card:nth-child(4) {
+        border-radius: 0px;
+    }
+
+    .fifth-card:nth-child(6) {
+        width: 98.7%;
+        height: 200px;
+        border-bottom-left-radius: 25px;
+    }
+
+    .fifth-card:nth-child(6) h3 {
+        font-size: 17px;
+    }
+
+    .eighth-main-section-container {
+        height: auto;
+    }
+
+    .eighth-section-data-container {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .eight-left {
+        min-height: 430px;
+        width: 100%;
+
+    }
+
+    .eight-left-card {
+        width: 95%;
+        height: 350px;
+        top: 50px;
+        left: 25px;
+        padding: 0 0 0 20px;
+    }
+
+    .eight-left-card h2 {
+        width: 100%;
+        font-size: 35px;
+        padding: 0px;
+    }
+
+    .eight-left2 {
+        width: 100%;
+    }
+
+    .eight-left3 {
+        width: 100%;
+        min-height: 80vh;
+    }
+
+    .text-section-con {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        padding: 0 0 0 30px;
+    }
+
+    .text-box {
+        width: 100%;
+    }
+
+
+    .nineth-section-data-container {
+        flex-direction: column;
+    }
+
+    .nineth-left-section {
+        width: 100%;
+        min-height: 80vh;
+    }
+
+    .nineth-left-section h2 {
+        width: 100%;
+        font-size: 35px;
+    }
+
+    .image-div {
+        width: 90%;
+        min-height: 400px;
+        top: 200px;
+    }
+
+    .image-div img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .background {
+        width: 90%;
+        min-height: 450px;
+        top: 250px;
+    }
+
+    .nineth-right-section {
+        width: 100%;
+        min-height: 80vh;
+    }
+
+    .second-text-section-con {
+        width: 100%;
+        gap: 70px;
+    }
+
+
+    .tenth-section-data-container {
+        flex-direction: column-reverse;
+    }
+
+    .tenth-left-section {
+        width: 100%;
+        min-height: 80vh;
+    }
+
+    .review-section {
+        top: 300px;
+        width: 100%;
+    }
+
+    .tenth-left-section button {
+        bottom: 20px;
+    }
+
+    .tenth-right-section {
+        width: 100%;
+        min-height: 110vh;
+        padding: 0 0 0 30px;
+    }
+
+    .first-image {
+        width: 450px;
+        min-height: 105vh;
+    }
+
+    .second-image {
+        bottom: 500px;
+        left: 500px;
+        width: 430px;
+        min-height: 450px;
+    }
+
+    .third-image {
+        bottom: 0px;
+        left: 500px;
+        width: 430px;
+        min-height: 450px;
+    }
+    .eleven-main-section-container {
+        height: auto;
+        margin: 0;
+        /* margin: 50px; */
+    }
+    .eleven-card-container {
+        height: auto;
+    }
+    .sixth-card {
+        height: 830px;
+    }
+    .img-card {
+        background-color: red;
+        height: 450px;
+        width: 450px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* object-fit: cover; */
+    }
+    .img-card img {
+        width: 450px;
+        height: 450px;
+        object-fit: cover;
+        object-position: left;
+    }
+    .circle-con {
+        bottom: 360px;
+        right: 200px;
+    }
+
+    .last-main-section-container {
+        height: auto;
+        margin-top: 70px;
+    }
+
+    .subscription-div {
+        flex-direction: column;
+        align-items: start;
+        padding: 0 0 0 15px;
+    }
+
+    .email-section {
+        width: 100%;
+        align-items: center;
+        justify-content: start;
+    }
+    .email-div {
+        width: 65%;
+    }
+    .email-section button {
+        padding: 0;
+        padding: 17px 150px 17px 150px;
+    }
+    .footer-container {
+        height: 140vh;
+    }
+    .seventh-card-container {
+        flex-direction: column;
+        height: auto;
+    }
+    .seventh-card {
+        height: auto;
+    }
+
+}
+
+
+@media only screen and (max-width:768px) {
+    .email-container i {
+        font-size: 15px;
+    }
+
+    .email-container h1 {
+        font-size: 15px;
+    }
+
+    .mobile-container i {
+        font-size: 15px;
+    }
+
+    .mobile-container h1 {
+        font-size: 15px;
+    }
+
+    .icon-container i {
+        font-size: 15px;
+    }
+
+    .second-navbar-container {
+        width: 100%;
+    }
+
+    .second-navbar-container nav {
+        width: 95%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .second-navbar-container nav ul {
+        display: none;
+    }
+
+    .second-navbar-container nav ul li a {
+        font-size: 15px;
+    }
+
+    .first-main-section-container {
+        height: 144.5vh;
+        display: flex;
+        align-items: start;
+        justify-content: start;
+    }
+
+    .second-section-data-container {
+        width: 95%;
+    }
+
+    .first-con-right {
+        display: none;
+    }
+
+    .left-container h2 {
+        width: 530px;
+        font-size: 50px;
+    }
+
+    .left-container p {
+        width: 750px;
+    }
+
+    .first-card-container {
+        height: auto;
+        width: 95% !important;
+        margin-left: 20px;
+        display: flex;
+        align-items: start;
+        justify-content: start;
+        flex-wrap: wrap;
+    }
+
+    .first-card {
+        width: 360px;
+    }
+
+    .first-card:nth-child(2) {
+        width: 360px;
+        border-top-right-radius: 25px;
+    }
+
+    .first-card:nth-child(3) {
+        width: 720px;
+        border-radius: 0;
+    }
+
+    .business-section {
+        width: 350px;
+        left: 350px;
+        top: 270px;
+    }
+
+    .contact-section {
+        width: 350px;
+        left: 350px;
+        top: 430px;
+    }
+
+    .fourth-main-section-container {
+        height: 200vh;
+        margin: 0;
+    }
+
+    .fourth-section-data-container {
+        height: 200vh;
+    }
+
+    .first-image-section {
+        height: 600px;
+    }
+
+    .second-image-section {
+        height: 600px;
+    }
+
+
+    .fifth-main-section-container {
+        height: 60vh;
+    }
+
+    .gradient-three {
+        height: 60vh;
+    }
+
+    .fifth-section-data-container {
+        height: 60vh;
+    }
+
+
+    .fourth-card {
+        width: 350px;
+    }
+
+    .fourth-card p {
+        width: 55%;
+    }
+
+    .gradient-two {
+        width: 350px;
+    }
+
+    .fourth-card2 {
+        width: 350px;
+    }
+
+    .house {
+        border-top-right-radius: 25px;
+    }
+
+    .fourth-card2 p {
+        width: 55%;
+    }
+
+    .house {
+        width: 350px;
+    }
+
+    .fourth-card3 {
+        width: 350px;
+    }
+
+    .fourth-card3 p {
+        width: 55%;
+    }
+
+    .wheat {
+        width: 350px;
+        border-bottom-left-radius: 25px;
+    }
+
+    .fourth-card4 {
+        width: 350px;
+    }
+
+    .fourth-card4 h3 {
+        font-size: 20px;
+
+    }
+
+    .sixth-main-section-container {
+        height: 200vh;
+        margin-top: 230px;
+    }
+
+    .sixth-section-data-container {
+        height: 200vh;
+        gap: 30px;
+    }
+
+    .left-con {
+        height: 100vh;
+    }
+
+    .img1 {
+        height: 500px;
+        width: 450px;
+    }
+
+    .img2 {
+        width: 300px;
+        top: 70px;
+    }
+
+    .img2 h2 {
+        font-size: 25px;
+    }
+
+    .img3 {
+        height: 500px;
+        width: 450px;
+    }
+
+    .seventh-main-section-container {
+        height: 175vh;
+    }
+
+    .fourth-card-container {
+        height: auto;
+    }
+
+    .fifth-card:nth-child(1) {
+        width: 350px;
+    }
+
+    .fifth-card:nth-child(2) {
+        width: 350px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .fifth-card:nth-child(2) h3 {
+        text-align: center;
+        font-size: 25px;
+        width: 200px;
+    }
+
+    .fifth-card:nth-child(2) p {
+        width: 270px;
+    }
+
+    .fifth-card:nth-child(3) {
+        width: 95.9%;
+    }
+
+    .fifth-card:nth-child(4) {
+        width: 350px;
+    }
+
+    .fifth-card:nth-child(4) img {
+        height: 40px;
+        width: 40px;
+    }
+
+    .fifth-card:nth-child(4) h3 {
+        text-align: center;
+        font-size: 25px;
+        width: 250px;
+    }
+
+    .fifth-card:nth-child(4) p {
+        width: 300px;
+    }
+
+    .fifth-card:nth-child(5) {
+        width: 350px;
+    }
+
+    .fifth-card:nth-child(6) {
+        width: 95.9%;
+        height: 150px;
+    }
+
+    .eight-left-card h2 {
+        width: 90%;
+        font-size: 35px;
+    }
+
+    .text-section-con i {
+        font-size: 50px;
+    }
+
+    .text-box h3 {
+        font-size: 20px;
+    }
+
+
+    .nineth-left-section {
+        min-height: 90vh;
+    }
+
+    .nineth-left-section h2 {
+        width: 90%;
+        font-size: 35px;
+    }
+
+    .image-div {
+        min-height: 200px;
+    }
+
+    .background {
+        min-height: 330px;
+    }
+
+
+    .second-text-section-con {
+        height: 110px;
+    }
+
+    .second-text-section-con h3 {
+        font-size: 35px;
+    }
+
+    .second-text-section-con h4 {
+        font-size: 20px;
+    }
+
+    .second-text-section-con p {
+        font-size: 20px;
+    }
+
+
+    .tenth-right-section {
+        min-height: 130vh;
+        padding: 0 0 0 15px;
+    }
+
+    .first-image {
+        width: 330px;
+        height: 120vh;
+    }
+
+    .second-image {
+        width: 350px;
+        left: 370px;
+        min-height: 400px;
+        bottom: 430px;
+    }
+
+    .third-image {
+        width: 350px;
+        left: 370px;
+        min-height: 400px;
+        bottom: 0px;
+    }
+
+    .tenth-left-section {
+        min-height: 110vh;
+    }
+
+    .review-section {
+        top: 330px;
+    }
+
+    .tenth-left-section button {
+        bottom: 5px;
+    }
+
+    .eleven-main-section-container {
+        margin-top: 70px;
+    }
+    .eleven-card-container {
+        flex-wrap: wrap;
+
+    }
+    .sixth-card {
+        width: 340px;
+        height: 780px;
+    }
+    
+    .img-card {
+        border-radius: 25px;
+        height: 450px;
+    }
+    .img-card img {
+        object-fit: cover;
+    }
+    .sixth-card:nth-child(3) {
+        /* height: 660px; */
+        margin-right: 370px;
+    }
+    .sixth-card h3 {
+        font-size: 25px;
+    }
+    
+    .circle-con {
+        right: 230px;
+        bottom: 310px;
+    }
+    
+    .sixth-card h3 {
+        width: 100%;
+    }
+
+    .last-main-section-container {
+        margin-top: 100px;
+    }
+
+    .subscription-div {
+        height: 150px;
+        display: flex;
+        align-items: start;
+        justify-content: center;
+    }
+    .subscription-div h1 {
+        font-size: 30px;
+    }
+    .email-section {
+        height: 80px;
+        gap: 0;
+        gap: 20px;
+    }
+    .email-div {
+        height: 50px;
+        /* width: 550px; */
+    }
+
+    .email-section button {
+        padding: 0;
+        padding: 13px 70px 13px 70px;
+    }
+
+    .footer-container {
+        height: 180vh;
+    }
+    
+    .eight-card h1 {
+        font-size: 30px;
+    }
+    .footer-container h4 {
+        font-size: 12px;
+    }
+}
+
+
+
+@media only screen and (max-width:431px) {
+
+    .first-navbar-container nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .information-container {
+        display: none;
+    }
+
+    .first-main-section-container {
+        height: auto;
+    }
+
+    .second-main-section-container {
+        height: 70vh;
+    }
+
+    .second-section-data-container {
+        height: 70vh;
+    }
+
+    .left-container {
+        width: 100%;
+    }
+
+    .left-container h2 {
+        width: 400px;
+    }
+
+    .left-container p {
+        width: 400px;
+
+    }
+
+    .second-button-container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 40px;
+    }
+
+    .first-con-right {
+        display: none;
+    }
+
+    .first-card-container {
+        width: 100% !important;
+        height: 90vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .first-card {
+        width: 400px;
+        height: 200px;
+    }
+
+    .first-card img {
+        border-radius: 0px;
+    }
+
+    .first-card:nth-child(2) {
+        width: 400px;
+        border-radius: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: start;
+    }
+
+    .first-card:nth-child(3) {
+        width: 400px;
+    }
+
+    .third-main-section-container {
+        height: 190vh;
+        margin-top: 40px;
+    }
+
+    .third-section-data-container {
+        height: 190vh;
+    }
+
+    .left-section {
+        width: 100%;
+        height: 80vh;
+    }
+
+    .right-section h1 {
+        font-size: 15px;
+    }
+
+    .right-section h2 {
+        width: 100%;
+        font-size: 30px;
+    }
+
+    .third-button-container {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .third-button-container button {
+        width: 100%;
+    }
+
+    .signature-con {
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .name-section h5 {
+        letter-spacing: 3px;
+    }
+
+    .business-section {
+        display: none;
+    }
+
+    .contact-section {
+        display: none;
+    }
+
+    .fourth-main-section-container {
+        height: 220vh;
+    }
+
+    .fourth-section-data-container {
+        height: 220vh;
+    }
+
+    .left-box {
+        height: auto;
+        gap: 30px;
+    }
+
+
+
+    .fourth-button-container {
+        width: 100%;
+    }
+
+    .second-card-container {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .second-card {
+        width: 95%;
+        height: 400px;
+
+    }
+
+    .second-card img {
+        border-radius: 0px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+
+    .third-card {
+        width: 95%;
+        height: 200px;
+        border-radius: 0px;
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+
+    .right-box {
+        height: auto;
+    }
+
+    .first-image-section {
+        height: 370px;
+    }
+
+    .second-image-section {
+        height: 370px;
+    }
+
+    .arrow {
+        height: 80px;
+        border-radius: 50px;
+    }
+
+
+    .fifth-main-section-container {
+        height: 80vh;
+    }
+
+    .gradient-three {
+        height: 80vh;
+    }
+
+    .fifth-section-data-container {
+        height: 80vh;
+    }
+
+    .fourth-card {
+        width: 100%;
+        border-top-right-radius: 25px;
+    }
+
+    .fourth-card p {
+        width: 48%;
+    }
+
+    .gradient-two {
+        border-top-right-radius: 25px;
+        width: 100%;
+    }
+
+    .fourth-card2 {
+        border-radius: 0px;
+        width: 100%;
+    }
+
+    .fourth-card2 p {
+        width: 48%;
+    }
+
+    .fourth-card3 {
+        border-radius: 0px;
+        width: 100%;
+    }
+
+    .fourth-card3 p {
+        width: 48%;
+    }
+
+    .fourth-card4 {
+        height: 130px;
+        width: 100%;
+        border-bottom-left-radius: 25px;
+    }
+
+    .sixth-main-section-container {
+        height: 200vh;
+        margin-top: 550px;
+    }
+
+    .sixth-section-data-container {
+        height: 200vh;
+    }
+
+
+    .img1 {
+        height: 450px;
+        width: 350px;
+        top: 100px;
+    }
+
+
+
+    .img2 {
+        width: 350px;
+        top: 10px;
+        right: 30px;
+    }
+
+    .img2 h1 {
+        font-size: 25px;
+    }
+
+    .img2 h1::before {
+        font-size: 25px;
+    }
+
+    .img2 i {
+        right: 245px;
+    }
+
+    .img2 h2 {
+        font-size: 25px;
+    }
+
+
+
+
+    .img3 {
+        height: 300px !important;
+        width: 230px;
+        bottom: 50px;
+    }
+
+    .img3 {
+        height: 200px;
+    }
+
+    .right-con {
+        gap: 20px;
+    }
+
+    .right-con h2 {
+        font-size: 35px;
+    }
+
+    .point-table {
+        width: 100%;
+    }
+
+    .seventh-main-section-container {
+        height: 260vh;
+        margin: 0;
+    }
+
+    .seventh-main-section-container h2 {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .fourth-card-container {
+        height: auto;
+    }
+
+    .fifth-card:nth-child(1) {
+        width: 100%;
+    }
+
+    .fifth-card:nth-child(1) img {
+        border-top-right-radius: 25px;
+    }
+
+    .fifth-card:nth-child(2) {
+        width: 100%;
+        border-radius: 0px;
+    }
+
+    .fifth-card:nth-child(2) h3 {
+        width: 100%;
+    }
+
+    .fifth-card:nth-child(3) {
+        width: 100%;
+    }
+
+    .fifth-card:nth-child(4) {
+        width: 100%;
+    }
+
+    .fifth-card:nth-child(4) h3 {
+        width: 100%;
+    }
+
+    .fifth-card:nth-child(5) {
+        width: 100%;
+    }
+
+    .fifth-card:nth-child(6) {
+        width: 100%;
+    }
+
+
+    .eight-left-card {
+        left: 10px;
+        height: 400px;
+        top: 10px;
+    }
+
+    .eight-left-card h1 {
+        font-size: 15px;
+    }
+
+    .eight-left-card h2 {
+        font-size: 30px;
+    }
+
+    .eight-left2 {
+        min-height: 400px;
+    }
+
+    .text-section-con i {
+        font-size: 40px;
+    }
+
+    .nineth-left-section {
+        min-height: 80vh;
+    }
+
+    .nineth-left-section h2 {
+        font-size: 30px;
+    }
+
+    .image-div {
+        top: 250px;
+        right: 0;
+    }
+
+    .image-div img {
+        height: 200px;
+        width: 100%;
+    }
+
+    .background {
+        min-height: 230px;
+        top: 300px;
+    }
+
+    .nineth-right-section {
+        min-height: 105vh;
+    }
+
+    .second-text-section-con {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: center;
+        padding: 0 0 0 20px;
+        gap: 0px;
+        height: 150px;
+    }
+
+    .second-text-box {
+        width: 300px;
+        height: 80px;
+        gap: 0px;
+    }
+    
+    .tenth-right-section {
+        min-height: 80vh;
+        padding: 0;
+    }
+    .first-image {
+        min-height: auto;
+        height: 550px !important;
+        width: 200px;
+    }
+    .second-image {
+        width: 200px;
+        min-height: 250px;
+        border-radius: 40px;
+        left: 210px;
+        top: 30px;
+    }
+    .third-image {
+        width: 200px;
+        min-height: 250px;
+        border-radius: 40px;
+        left: 210px;
+    }
+    .tenth-left-section {
+        min-height: 110vh;
+    }
+    .tenth-left-section h2 {
+        font-size: 35px;
+        width: 100%;
+    }
+    .text-section-box h2 {
+        font-size: 15px;
+    }
+    .tenth-left-section button {
+        bottom: 20px;
+    }
+
+
+    
+    .eleven-main-section-container h2 {
+        text-align: center;
+        font-size: 30px;  
+    }
+    
+    .sixth-card {
+        width: 90%;
+    }
+    .sixth-card:nth-child(3) {
+        margin: 0;
+    }
+    .img-card img {
+        height: 450px;
+        width: 450px;
+    }
+    .circle-con {
+        bottom: 310px;
+        left: 30px;
+    }
+
+    
+    .subscription-div {
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: space-evenly;
+    }
+    .email-section {
+        flex-direction: column;
+        height: auto;
+        gap: 0;
+        gap: 15px;
+    }
+    .email-div {
+        width: 100%;
+    }
+    
+    .email-section button {
+        padding: 0;
+        padding: 17px 160px 17px 160px;
+    }
+    .footer-container h4 {
+        font-size: 15px;
+        width: 90%;
+        text-align: center;
+        font-weight: 5px;
+    }
+}

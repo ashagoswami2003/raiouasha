@@ -1,0 +1,211 @@
+@keyframes right-to-left {
+    from {
+        transform: translateY(-200px);
+    }
+
+    to {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes down-to-up {
+    from {
+        transform: translateY(100px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes hover-btn {
+    0% {
+        width: 1px;
+        height: 1px;
+        opacity: 1;
+    }
+    100% {
+        width: 100px;
+        height: 100px;
+        opacity: 0;
+    }
+    
+}
+
+@keyframes counter {
+    0% {
+        counter-increment: count 0 ;
+    }
+    10% {
+        counter-increment: count -730 ;
+    }
+    15% {
+        counter-increment: count -750;
+    }
+    20% {
+        counter-increment: count -700 ;
+    }
+    25% {
+        counter-increment: count -650 ;
+    }
+    30% {
+        counter-increment: count -630;
+    }
+    35% {
+        counter-increment: count -600 ;
+    }
+    40% {
+        counter-increment: count -550 ;
+    }
+    45% {
+        counter-increment: count -530 ;
+    }
+    50% {
+        counter-increment: count -500 ;
+    }
+    55% {
+        counter-increment: count -450 ;
+    }
+    60% {
+        counter-increment: count -430 ;
+    }
+    65% {
+        counter-increment: count -350;
+    }
+    70% {
+        counter-increment: count -330;
+    }
+    75% {
+        counter-increment: count -300;
+    }
+    80% {
+        counter-increment: count -250;
+    }
+    85% {
+        counter-increment: count -230;
+    }
+    90% {
+        counter-increment: count -200;
+    }
+    95% {
+        counter-increment: count -150;
+    }
+    100% {
+        counter-increment: count -130;
+    }
+}
+
+@keyframes sliderbar {
+    from {
+        transform: translateX(700px);
+    }
+
+    to {
+        transform: translateX(0px);
+    }
+}
+@keyframes left-to-right {
+    from {
+        transform: translateX(-700px);
+    }
+
+    to {
+        transform: translateX(0px);
+    }
+}
+@keyframes arrow-move {
+    from {
+        transform: translateX(500px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes card-section {
+    from {
+        transform: translateX(900px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes img-moving {
+    from {
+        transform: translateY(70px);
+    }
+    to {
+        transform: translate(0px);
+    }
+}
+
+@keyframes cards {
+    from {
+        transform: translateY(100px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+@keyframes sliderbar2 {
+    from {
+        transform: translateX(900px);
+    }
+
+    to {
+        transform: translateX(0px);
+    }
+}
+@keyframes counter2 {
+    0% {
+        counter-increment: count 0 ;
+    }
+    10% {
+        counter-increment: count -320 ;
+    }
+    20% {
+        counter-increment: count -310 ;
+    }
+    30% {
+        counter-increment: count -298 ;
+    }
+    40% {
+        counter-increment: count -288 ;
+    }
+    50% {
+        counter-increment: count -270 ;
+    }
+    60% {
+        counter-increment: count -265 ;
+    }
+    70% {
+        counter-increment: count -250 ;
+    }
+    80% {
+        counter-increment: count -245 ;
+    }
+    90% {
+        counter-increment: count -150 ;
+    }
+    100% {
+        counter-increment: count -100 ;
+    }
+
+
+}
+@keyframes run {
+    from {
+        transform: translateY(40px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+@keyframes eight-left-card {
+    from {
+        transform: translateX(900px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
