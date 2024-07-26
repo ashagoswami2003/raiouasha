@@ -972,7 +972,7 @@
     }
 
     .first-main-section-container {
-        height: auto;
+        height: 120vh;
     }
 
     .second-main-section-container {
@@ -1041,12 +1041,12 @@
     }
 
     .third-main-section-container {
-        height: 190vh;
+        height: 150vh;
         margin-top: 40px;
     }
 
     .third-section-data-container {
-        height: 190vh;
+        height: 150vh;
     }
 
     .left-section {
@@ -1092,7 +1092,7 @@
     }
 
     .fourth-main-section-container {
-        height: 220vh;
+        height: 160vh;
     }
 
     .fourth-section-data-container {
@@ -1154,7 +1154,7 @@
 
 
     .fifth-main-section-container {
-        height: 80vh;
+        height: 65vh;
     }
 
     .gradient-three {
@@ -1204,14 +1204,17 @@
     }
 
     .sixth-main-section-container {
-        height: 200vh;
-        margin-top: 550px;
+        height: auto;
+        margin-top: 500px;
     }
 
     .sixth-section-data-container {
-        height: 200vh;
+        height: auto;
     }
-
+ 
+    .left-con {
+        height: 70vh;
+    }
 
     .img1 {
         height: 450px;
@@ -1258,6 +1261,7 @@
 
     .right-con {
         gap: 20px;
+        height: 70vh;
     }
 
     .right-con h2 {
@@ -1269,8 +1273,9 @@
     }
 
     .seventh-main-section-container {
-        height: 260vh;
+        height: 190vh;
         margin: 0;
+        margin-top: 30px;
     }
 
     .seventh-main-section-container h2 {
@@ -1320,6 +1325,11 @@
     }
 
 
+    
+    .eight-left3 {
+        min-height: 70vh;
+        gap: 0;
+    }
     .eight-left-card {
         left: 10px;
         height: 400px;
@@ -1338,12 +1348,17 @@
         min-height: 400px;
     }
 
+    
     .text-section-con i {
         font-size: 40px;
     }
 
+    .nineth-main-section-container {
+        margin: 0;
+        margin-top: 50px;
+    }
     .nineth-left-section {
-        min-height: 80vh;
+        min-height: 60vh;
     }
 
     .nineth-left-section h2 {
@@ -1366,9 +1381,9 @@
     }
 
     .nineth-right-section {
-        min-height: 105vh;
+        min-height: 90vh;
     }
-
+    
     .second-text-section-con {
         display: flex;
         flex-direction: column;
@@ -1386,9 +1401,12 @@
     }
     
     .tenth-right-section {
-        min-height: 80vh;
+        min-height: 60vh;
         padding: 0;
     }
+    
+        
+    
     .first-image {
         min-height: auto;
         height: 550px !important;
@@ -1408,7 +1426,7 @@
         left: 210px;
     }
     .tenth-left-section {
-        min-height: 110vh;
+        min-height: 80vh;
     }
     .tenth-left-section h2 {
         font-size: 35px;
@@ -1443,6 +1461,9 @@
         left: 30px;
     }
 
+    .last-main-section-container {
+        height: 200vh;
+    }
     
     .subscription-div {
         height: 200px;
@@ -1465,10 +1486,17 @@
         padding: 0;
         padding: 17px 160px 17px 160px;
     }
+    .footer-container {
+        height: 150vh;
+    }
     .footer-container h4 {
         font-size: 15px;
         width: 90%;
         text-align: center;
         font-weight: 5px;
     }
+    .seventh-card-container {
+        height: 130vh;
+    }
 }
+
